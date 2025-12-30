@@ -1,0 +1,38 @@
+# ==================== Unity ====================
+
+# Built-In
+[Aa]ssets/TutorialInfo*
+[Aa]ssets/Readme.asset*
+
+
+# Builds
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+
+# UserSettings
+[Uu]ser[Ss]ettings
+
+# Cache
+*.csproj
+*.unityproj
+*.userprefs
+*.sln
+*.pidb
+*.user
+*.suo
+*.tmp
+*.log
+
+# Asset meta data should only be ignored when the corresponding asset is ignored
+# *.meta
+
+# Auto-generated VS / VSCode / Rider
+.vs/
+.idea/
+.vscode/
